@@ -94,7 +94,7 @@ Next Steps in the Classifier Model Enhancement:
 #### Outline of project
 
   (Need to create an account on github)
-- [](BH-PCMLAI: Module 24 Capstone Project)
+- [https://github.com/shajiAI/BH-PCMLAI-Module-24-Capstone-Project](BH-PCMLAI: Module 24 Capstone Project)
 
 
 ##### Contact and Further Information: 
